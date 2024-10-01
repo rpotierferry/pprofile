@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  start_date: 2024-10-01
+  end_date: 2024-10-01
+  role: MyString
+  location: MyString
+  company: MyString
+  user: one
+
+two:
+  start_date: 2024-10-01
+  end_date: 2024-10-01
+  role: MyString
+  location: MyString
+  company: MyString
+  user: two
